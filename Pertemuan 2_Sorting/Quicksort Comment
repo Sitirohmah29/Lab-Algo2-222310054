@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Fungsi untuk menukar nilai
+//Deklarasi Fungsi
 void swap(int arr[], int pos1, int pos2){
   int temp;
   temp = arr[pos1];
